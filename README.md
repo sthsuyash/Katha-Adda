@@ -2,7 +2,7 @@
 
 ## Description
 
-Katha Sansar is a Book Selling E-commerce Platform. The platform allows users to browse and purchase books, manage their shopping cart, and track their orders. This project uses Next.js and Tailwind/Chakra UI for the frontend, and NestJS for the backend. The data is be stored in Postgres database using Prism ORM.
+Katha Sansar is a Book Selling E-commerce Platform. The platform allows users to browse and purchase books, manage their shopping cart, and track their orders. This project uses Next.js and Tailwind/Chakra UI for the frontend, and NestJS for the backend. The data is be stored in Postgres database using Prisma ORM.
 
 REST APIs are implemented to handle the CRUD operations for books, shopping cart management, checkout process, and order tracking.
 
